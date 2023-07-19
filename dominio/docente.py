@@ -2,6 +2,7 @@
 #Quizhpi Aviles Aaron
 #Cmpoverde Yong Esthela
 #Olvera Herrera Shirley
+#Michael Villacis Bohorquez
 
 from dominio.persona import Persona
 class Docente(Persona):
